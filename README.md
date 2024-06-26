@@ -49,6 +49,7 @@ cd nlp-language-detection
 - Using the XLM-RobertaForSequenceClassification model we get skewed results. 
 - Using Model with Existing data from NLTK Library, Random Forest and Cross Validation we get an accuracy of `98%`. 
 
+![Results](images/accuracy-model-2.png)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
